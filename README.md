@@ -21,3 +21,6 @@ Users can simply provide a link to a LinkedIn profile, and the bot automatically
 1. Send the bot a link to a LinkedIn profile in Telegram.
 2. The bot will parse the data and generate a personalized proposal.
 3. The received proposal can be edited or used immediately for contacting potential clients.
+
+## Example of work
+![image](https://github.com/Pomelkin/linkedin-based-letters-bot/blob/main/Example.png)
