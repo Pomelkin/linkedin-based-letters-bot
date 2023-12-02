@@ -62,7 +62,7 @@ async def get_info(url):
     try:
         years_experience = datetime.date.today().year - user['experiences'][-1]['starts_at']['year']
     except:
-        year_experience = 0
+        years_experience = 0
 
     try:
         email = user['personal_emails'][0]
