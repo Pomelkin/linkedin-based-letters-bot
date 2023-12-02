@@ -11,7 +11,7 @@ The bot parses information from LinkedIn, analyzing user profiles and extracting
 
 Harnesses the power of the OpenAI API, specifically GPT, to generate high-quality and personalized text proposals.
 Users can simply provide a link to a LinkedIn profile, and the bot automatically creates a personalized proposal.
-### Advantages:
+## Advantages:
 
 - Efficiency: The bot accelerates the process of creating personalized proposals, reducing time and effort.
 - Convenience: Easy to use - just send a link to get a ready-made proposal.
