@@ -23,4 +23,4 @@ Users can simply provide a link to a LinkedIn profile, and the bot automatically
 3. The received proposal can be edited or used immediately for contacting potential clients.
 
 ## Example of work
-![image](https://github.com/Pomelkin/linkedin-based-letters-bot/assets/113930312/5f303f83-5ac3-4ac9-8738-cb01e301d66b)
+![image](https://github.com/Pomelkin/linkedin-based-letters-bot/blob/main/Example.png)
