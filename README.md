@@ -7,7 +7,7 @@ LinkedIn-Based Letters Bot - an innovative Telegram bot developed using the `aio
 ### LinkedIn Parsing:
 
 The bot parses information from LinkedIn, analyzing user profiles and extracting key data.
-###Generation of Personalized Proposals using GPT:
+### Generation of Personalized Proposals using GPT:
 
 Harnesses the power of the OpenAI API, specifically GPT, to generate high-quality and personalized text proposals.
 Users can simply provide a link to a LinkedIn profile, and the bot automatically creates a personalized proposal.
